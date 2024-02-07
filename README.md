@@ -7,8 +7,11 @@
 
 Topic:
 1.echo - use for showing anything
+
 2. Variable - start with $ sign. Ex: $num
+   
 3.Data Type(string, integer, boolean, float, array, NULL)
+
 4. concatenation, print vs echo
 5.function(return vs echo ,default parameter value)
 	Parameter: function define korar somoi je variable declared kora hoy
