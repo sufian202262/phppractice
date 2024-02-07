@@ -1,15 +1,15 @@
 26/01/2024
 
 1.Install xampp
+
 2.start apache, mysql
+
 3.xampp -> htdocs -> yourFolder -> yourFile.php
 
 
 Topic:
 1.echo - use for showing anything
-
 2. Variable - start with $ sign. Ex: $num
-   
 3.Data Type(string, integer, boolean, float, array, NULL)
 
 4. concatenation, print vs echo
