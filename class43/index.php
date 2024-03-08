@@ -30,7 +30,7 @@ echo $a." ".$b." ".$c;
 echo '<br/>';
 echo '<br/>';
 
-//in print, using comma contatination is not possible
+//in print, using comma concatination is not possible
 // print $a," ",$b," ",$c;  
 
 echo '<br/>';
